@@ -1,3 +1,4 @@
-Step 1 - choose Pizza place.
-Step 2 - choose your Pizza.
+Step 1 - Compare Price and Quality of different Pizza places.
+Step 1a - Choose Pizza place.
+Step 2 - Choose your Pizza.
 Step 3 - Order and enjoy!
